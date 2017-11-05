@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "charityName": "Project Hope",
+        "productCode": "WA-0048",
+        "dateAdded": "November 05, 2017",
+        "description": "Health and hope for tomorrow",
+        "score": 93.20,
+        "starRating": 4.0,
+        "imageUrl": "http://m4health.pro/wp-content/uploads/blue-Project-HOPE-logo.jpg"
+    },
+    {
+        "productId": 2,
+        "charityName": "Direct Relief",
+        "productCode": "CA-0023",
+        "dateAdded": "October 12, 2017",
+        "description": "Deliver a world of good",
+        "score": 100.00,
+        "starRating": 4.0,
+        "imageUrl": "https://www.directrelief.org/content/uploads/DirectRelief_Logomark_RGB.png"
+    },
+    {
+        "productId": 3,
+        "charityName": "Project C.U.R.E.",
+        "productCode": "CO-0200",
+        "dateAdded": "October 31, 2017",
+        "description": "Delivering health and hope to the world",
+        "score": 91.92,
+        "starRating": 4.0,
+        "imageUrl": "http://www.sergeibakafoundation.com/wp-content/uploads/2015/03/project-logo.png"
+    },
+    {
+        "productId": 4,
+        "charityName": "Islamic Relief USA",
+        "productCode": "VA-0030",
+        "dateAdded": "August 15, 2017",
+        "description": "Working together for a better world",
+        "score": 92.92,
+        "starRating": 4.0,
+        "imageUrl": "https://pbs.twimg.com/profile_images/552071476036120577/xOZQ1UJS.jpeg"
+    },
+    {
+        "productId": 10,
+        "charityName": "UNICEF USA",
+        "productCode": "NY-0052",
+        "dateAdded": "November 5, 2017",
+        "description": "Children First",
+        "score": 84.39,
+        "starRating": 3.0,
+        "imageUrl": "https://s3-us-west-1.amazonaws.com/cr-rackspace-cloud-files-backups/Prod_Static/logo_Unicef.png"
+    }
+]
