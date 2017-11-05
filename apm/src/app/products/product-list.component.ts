@@ -9,6 +9,7 @@ export class ProductListComponent {
   pageTitle: string = 'Charity List';
   imageWidth: number = 50;
   imageMargin: number = 2;
+  showImage: boolean = false;
   products: any[] = [
     {
         "productId": 1,
@@ -31,4 +32,8 @@ export class ProductListComponent {
         "imageUrl": "https://www.directrelief.org/content/uploads/DirectRelief_Logomark_RGB.png"
     }
   ];
+
+  toggleImage(): void{
+    this.showImage = !this.showImage;
+  };
 }
