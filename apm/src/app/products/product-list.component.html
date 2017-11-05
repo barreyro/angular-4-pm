@@ -43,7 +43,7 @@
                       [style.margin.px]='imageMargin'
                       ></td>
             <td>{{ product.charityName }}</td>
-            <td>{{ product.productCode }}</td>
+            <td>{{ product.productCode | lowercase}}</td>
             <td>{{ product.dateAdded }}</td>
             <td>{{ product.score }}</td>
             <td>{{ product.starRating }}</td>
